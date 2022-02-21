@@ -30,7 +30,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/tessemir"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="tessemir" /></a></p><br><br>
 <br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=semirteskeredzic&show_icons=true&locale=en" alt="semirteskeredzic" /></p>
 
 <p style="margin-bottom: 0;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=semirteskeredzic&show_icons=true&locale=en&layout=compact" alt="semirteskeredzic" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=semirteskeredzic&show_icons=true&locale=en" alt="semirteskeredzic" /></p>
 
