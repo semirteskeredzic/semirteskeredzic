@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/tessemir" target="blank"><img src="https://img.shields.io/twitter/follow/tessemir?logo=twitter&style=for-the-badge" alt="tessemir" /></a> </p>
 
-- 🔭 Latest project - currently LIVE **utility bills app** - [https://atfee.co](Atfee)
+- 🔭 Latest project - currently LIVE **utility bills app** - [Atfee](https://atfee.co)
 
-- 👨‍💻 All of my projects are available at [https://techitandbeyond.wordpress.com](https://techitandbeyond.wordpress.com)
+- 👨‍💻 All of my projects are available at [TechItAndBeyond](https://techitandbeyond.wordpress.com)
 
-- 📰 Join me in exploring Blazor and .NET for web development on my blog [https://dotinternet.hashnode.dev/](dotInternet)
+- 📰 Join me in exploring Blazor and .NET for web development on my blog [dotInternet](https://dotinternet.hashnode.dev/)
 
 - 💬 Ask me about **react, js, node, product owning, team management**
 
