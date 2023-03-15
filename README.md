@@ -3,11 +3,13 @@
 
 <p align="left"> <a href="https://twitter.com/tessemir" target="blank"><img src="https://img.shields.io/twitter/follow/tessemir?logo=twitter&style=for-the-badge" alt="tessemir" /></a> </p>
 
-- 🔭 I’m currently working on **utility bills app**
+- 🔭 Latest project - currently LIVE **utility bills app** - [https://atfee.co](Atfee)
 
 - 👨‍💻 All of my projects are available at [https://techitandbeyond.wordpress.com](https://techitandbeyond.wordpress.com)
 
-- 💬 Ask me about **react, js, product owning, team management**
+- 📰 Join me in exploring Blazor and .NET for web development on my blog [https://dotinternet.hashnode.dev/](dotInternet)
+
+- 💬 Ask me about **react, js, node, product owning, team management**
 
 - 📫 How to reach me **semir.teskeredzic@gmail.com**
 
