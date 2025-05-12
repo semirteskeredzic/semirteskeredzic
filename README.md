@@ -3,13 +3,15 @@
 
 <p align="left"> <a href="https://twitter.com/tessemir" target="blank"><img src="https://img.shields.io/twitter/follow/tessemir?logo=twitter&style=for-the-badge" alt="tessemir" /></a> </p>
 
-- 🔭 Latest project - currently LIVE **utility bills app** - [Atfee](https://atfee.co)
+- 🔭 Latest project - currently LIVE **bills app** - [Atfee](https://atfee.co)
+
+- 🚧 WIP - Atfee iOS App
 
 - 👨‍💻 All of my projects are available at [TechItAndBeyond](https://techitandbeyond.wordpress.com)
 
 - 📰 Join me in exploring Blazor and .NET for web development on my blog [dotInternet](https://dotinternet.hashnode.dev/)
 
-- 💬 Ask me about **react, js, node, product owning, team management**
+- 💬 Ask me about **react, js, node, product owning, swiftui, team management**
 
 - 📫 How to reach me **semir.teskeredzic@gmail.com**
 
