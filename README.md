@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/tessemir" target="blank"><img src="https://img.shields.io/twitter/follow/tessemir?logo=twitter&style=for-the-badge" alt="tessemir" /></a> </p>
 
-- 🔭 Latest project - currently LIVE on Apple App Store **Heart of Salah app** - [Heart of Salah](https://apps.apple.com/us/app/heart-of-salah/id6760080323)
+- 🔭 LIVE on Apple App Store **Heart of Salah app** - [Heart of Salah](https://apps.apple.com/us/app/heart-of-salah/id6760080323)
 
-- 🏗️ Nearing Beta testing on Test Flight - Atfee iOS App [Sign up for beta testing](mailto://info@atfee.co)
+- 💳 LIVE on Apple App store **Atfee iOS App** - [Atfee](https://dub.sh/atfee)
 
 - 🚧 WIP - Liity iOS App
 
